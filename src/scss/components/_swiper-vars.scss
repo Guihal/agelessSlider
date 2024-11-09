@@ -1,25 +1,30 @@
 .swiper {
-	--pad-side: 10px;
-	--pad-slide: 20px;
-	--pad-slide-btm: 60px;
-	--gap-slide: 10px;
+    --pad-side: 10px;
+    --pad-slide: 20px;
+    --pad-slide-btm: 60px;
+    --gap-slide: 10px;
 
-	--font-family: "AgeLess", Arial, sans-serif;
+    --mrgn-note: 40px;
 
-	--font-size-label: 10px;
-	--font-size-descr: 12px;
-	--font-size-title: 28px;
-	--font-size-btn: 10px;
+    --font-family: 'AgeLess', Arial, sans-serif;
 
-	--black: #000000;
-	--white: #fff;
+    --font-size-label: 10px;
+    --font-size-descr: 12px;
+    --font-size-title: 28px;
+    --font-size-btn: 10px;
+    --font-note: 14px;
 
-	--text-color: var(--white);
+    --font-note-col: #280e024d;
 
-	--btn-back: var(--white);
-	--btn-text: var(--black);
-	--btn-back-hover: var(--btn-text);
-	--btn-text-hover: var(--btn-back);
-	--btn-radius: 100px;
-	--btn-pad: 14px 20px;
+    --black: #000000;
+    --white: #fff;
+
+    --text-color: var(--white);
+
+    --btn-back: var(--white);
+    --btn-text: var(--black);
+    --btn-back-hover: var(--btn-text);
+    --btn-text-hover: var(--btn-back);
+    --btn-radius: 100px;
+    --btn-pad: 14px 20px;
 }
